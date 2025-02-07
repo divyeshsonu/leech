@@ -16,7 +16,7 @@ A Telegram bot that can download videos from text files containing links, with s
 ## Deployment Methods
 
 ### Deploy to Heroku
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/20255-ee-085/TXT-LEECH-BOT)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/divyeshsonu/leech)
 
 1. Create a Heroku account (skip if you already have one)
 2. Click the Deploy button above
